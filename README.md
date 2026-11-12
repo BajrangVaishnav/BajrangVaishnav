@@ -1,28 +1,168 @@
-# 💫 About Me:
-Software Engineer | JavaScript • React • Next.js • Node.js | Building practical web applications, exploring open source, and learning new technologies. 🚀
+<!-- ==================== HEADER ==================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1E3A8A,100:0891B2&height=230&section=header&text=Bajrang%20Vaishnav&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Bajrang Vaishnav - Software Engineer"/>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ujU8u2rbp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bajrangvaishnav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BajrangVaisnnav) 
+<!-- ==================== TYPING INTRO ==================== -->
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bajrangvaishnav&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bajrangvaishnav&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bajrangvaishnav&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Building+useful+things+for+the+web+%F0%9F%9A%80;Turning+ideas+into+reliable+software;Exploring+open+source+and+better+engineering;Code+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve" alt="Typing introduction"/>
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bajrangvaishnav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://bajrang.me">
+    <img src="https://img.shields.io/badge/Portfolio-bajrang.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://toolmasterapp.in">
+    <img src="https://img.shields.io/badge/Building-ToolMaster-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/bajrangvaishnav">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=bajrangvaishnav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bajrangvaishnav) 
+<!-- ==================== ABOUT ==================== -->
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm **Bajrang Vaishnav**, a Software Engineer passionate about building practical, scalable, and user-focused applications.
+
+I enjoy working across the full stack — from designing clean interfaces to developing backend systems, APIs, and deploying applications.
+
+- 🚀 Building real-world web applications and developer tools.
+- 🛠️ Working with JavaScript, React, Next.js, and Node.js.
+- 🔐 Interested in application security, performance, and system reliability.
+- 🌱 Exploring open-source development and collaborative engineering.
+- 💡 Believe in learning by building, experimenting, and improving.
+
+> "I don't just want to write code. I want to build things that solve real problems."
+
+---
+
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+## 🔭 What I'm Building
+
+### ⚡ ToolMaster — All-in-One Online Tools
+
+An online toolbox designed to make everyday digital tasks easier, with a focus on speed, privacy, and browser-based processing.
+
+**Working on:** Developer utilities, productivity tools, and a better user experience.
+
+🌐 [Visit ToolMaster](https://toolmasterapp.in)
+
+### 🌐 Personal Portfolio
+
+My personal space to showcase projects, development work, and experiments.
+
+🌐 [Explore my portfolio](https://bajrang.me)
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🧰 Tech Stack & Tools
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind&perline=6" alt="Frontend technologies"/>
+</p>
+
+### Backend & Real-time Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio&perline=6" alt="Backend technologies"/>
+</p>
+
+### Databases & Data Management
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma&perline=6" alt="Database technologies"/>
+</p>
+
+### Cloud, DevOps & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,azure,aws,vercel,cloudflare,git,github,postman&perline=9" alt="Cloud and developer tools"/>
+</p>
+
+---
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bajrangvaishnav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Bajrang's GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajrangvaishnav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=bajrangvaishnav&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <sub>Language statistics represent repository code composition, not proficiency.</sub>
+</p>
+
+---
+
+<!-- ==================== OPEN SOURCE ==================== -->
+
+## 🌍 Open Source & Community
+
+I believe open source is one of the best ways to learn, collaborate, and create meaningful software.
+
+Currently exploring opportunities to:
+
+- Contribute to community-driven projects.
+- Improve existing applications and developer tools.
+- Learn from experienced developers.
+- Build software that creates real-world impact.
+
+**Open to:** Open-source collaboration, interesting projects, and meaningful engineering discussions.
+
+---
+
+<!-- ==================== SOCIALS ==================== -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/bajrangvaishnav">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/BajrangVaisnnav">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/ujU8u2rbp">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://bajrang.me">
+    <img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://buymeacoffee.com/bajrangvaishnav">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting! Keep building, keep learning, and keep shipping. 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1E3A8A,100:0891B2&height=110&section=footer" width="100%" alt="Footer"/>
+</p>
