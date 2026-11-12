@@ -99,12 +99,13 @@ My personal space to showcase projects, development work, and experiments.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bajrangvaishnav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Bajrang's GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajrangvaishnav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=bajrangvaishnav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics"/>
+
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bajrangvaishnav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages"/>
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=bajrangvaishnav&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img width="65%" src="https://streak-stats.demolab.com?user=bajrangvaishnav&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
